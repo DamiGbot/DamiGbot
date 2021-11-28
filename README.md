@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Damilola Gbotolorun
 - 👀 I’m interested in Software development and Cybersecurity
-- 🌱 I’m currently learning Backend  
+- 🌱 I’m currently learning Data Structure and Algorithms 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me damigbot@gmail.com
 
