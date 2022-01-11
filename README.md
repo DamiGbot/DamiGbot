@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Damilola Gbotolorun
+- 👋 Hi, I’m Oluwadamilola Gbotolorun
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Data Structure and Algorithms 
 - 💞️ I’m looking to collaborate on ...
