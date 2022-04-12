@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwadamilola Gbotolorun
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Data Structure and Algorithms 
+- 🌱 I’m currently learning Java and Next.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me damigbot@gmail.com
 
