@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwadamilola Gbotolorun
 - 👀 I’m interested in API Development
-- 🌱 I’m currently learning Java and C# 
+- 🌱 I’m currently developing my problem solving skills  
 - 💞️ I’m looking to collaborate on ...
 <!-- - 📫 How to reach me damigbot@gmail.com -->
 
