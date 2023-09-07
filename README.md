@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Oluwadamilola Gbotolorun
-- 👀 I’m interested in API Development
-- 🌱 I’m currently developing my problem solving skills  
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hey there! I'm Oluwadamilola Gbotolorun, your go-to engineer for everything API Development 🌐.
+- 👀 Got a knack for weaving logic into code? Me too! I'm deep-diving into the art of problem-solving 🧠💡.
+- 🌱 On my coding journey, I'm always sharpening my skills, one line at a time.
+- 💞️ Collaboration? Count me in! Let's fuse our talents and build something epic together! 🤝🚀
 <!-- - 📫 How to reach me damigbot@gmail.com -->
 
 <!---
